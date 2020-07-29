@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Pranav Bansal, QA by profession, adventurer by heart"
-date = "2019-02-28"
+date = "2020-07-29"
 aliases = ["about-us","about-pranav","contact"]
 author = "Pranav Bansal"
 +++
