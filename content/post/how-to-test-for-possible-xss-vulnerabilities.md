@@ -6,6 +6,7 @@ description = "A brief introduction to XSS for testers"
 tags = [
     "security",
 ]
+draft = true
 +++
 
 ### TBD
