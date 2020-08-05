@@ -31,7 +31,7 @@ User can see the search box
 Type anything in the search box and clock go.
 User is able to see the output as per input searched.
 
-#### C) Now to perform XSS
+##### Now to perform XSS
 
 Insert any script in the search box. 
 Lets start with the basic html tag :
@@ -42,7 +42,7 @@ Now click on go
 
 User will be able to see a prompt with text "I am evil"
 
-#### Latest XSS attacks
+#### C)Latest XSS attacks
 
 Samy (also known as JS.Spacehero) is a XSS worm that was designed to propagate across the MySpace social-networking site written by 
 Samy Kamkar. Within just 20 hours of its October 4, 2005 release, over one million users had run the payload making Samy the fastest 
